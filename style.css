@@ -1,6 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Oswald:wght@600&family=Roboto:wght@100&display=swap');
+
+
 body {
     background-color: yellow;
     margin: 0;
     padding: 0;
 }
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h3 {
+    font-family: 'Roboto', sans-serif;
+}
